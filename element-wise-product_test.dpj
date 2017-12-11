@@ -185,6 +185,8 @@
 						</file-configuration>
 					</file-configurations>
 				</file>
+				<file name=".\tools.h">
+				</file>
 			</files>
 		</folder>
 	</folders>
