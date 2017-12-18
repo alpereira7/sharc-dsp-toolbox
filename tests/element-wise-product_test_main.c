@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cycle_count.h>
-#include "tools.h"
+#include "../tools/tools.h"
 
 #define     LENGTH      4096
 
